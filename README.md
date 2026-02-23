@@ -1,107 +1,35 @@
-# Hi, I'm Samujal Phukan 👋
+# Samujal Phukan
 
-Backend-focused developer specializing in **Node.js, Express, and MongoDB**.  
-I enjoy building real-world backend systems and scalable APIs.
+Backend Developer focused on **Node.js, Express, and MongoDB**.
 
-I have built production applications including a restaurant order system used by real customers and an email management platform.
+I build real-world backend systems and REST APIs.  
+I have developed production projects including a restaurant order system and an email management platform.
 
----
+## Skills
 
-## 🚀 Skills
-
-### Backend
 - Node.js
 - Express.js
 - MongoDB
-- REST API Development
+- REST APIs
 - JWT Authentication
-- API Design
-- Pagination & Search
+- React
 
-### Frontend
-- React.js
-- Next.js
-- JavaScript
+## Projects
 
-### Tools
-- Git & GitHub
-- Postman
-- MongoDB Atlas
-- VS Code
-
----
-
-## 🧠 What I Do
-
-- Build backend APIs
-- Design databases
-- Create authentication systems
-- Develop real-world applications
-- Solve backend problems
-
----
-
-## 📂 Projects
-
-### Nexx Email Manager
-
-Email management platform built with Node.js and MongoDB.
-
-**Features**
-
-- JWT Authentication
-- Email Storage
-- Search Functionality
+**Nexx Email Manager**
+- Email storage and search
+- JWT authentication
 - Pagination APIs
-- REST API Architecture
 
-**Tech Stack**
+**Restaurant Order System**
+- Real-world production project
+- Order management APIs
+- Used by a restaurant
 
-- Node.js
-- Express
-- MongoDB
-- React
-
----
-
-### Restaurant Order Management System
-
-Production system built for a real restaurant.
-
-**Features**
-
-- Real-time order management
-- Order tracking
-- Mobile-friendly interface
-- Backend API system
-
-**Tech Stack**
-
-- Node.js
-- Express
-- MongoDB
-- React
-
----
-
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced Node.js
-- Backend System Design
-- Clean Architecture
-- Performance Optimization
-
----
-
-## 🎯 Goals
-
-- Become a professional Backend Developer
-- Build scalable systems
-- Work on real-world backend applications
-
----
-
-## 📫 Contact
-
+- Backend architecture
+- System design
 
 Email: samujalphukan@yahoo.com
