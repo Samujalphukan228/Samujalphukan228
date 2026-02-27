@@ -1,69 +1,38 @@
-# Samujal Phukan
+# $\color{blue}{\textbf{Samujal Phukan}}$
 
-Backend Developer focused on **Node.js, Rust, and MongoDB**.
-
-I build production-ready backend systems and REST APIs.
-
----
-
-## Skills
-
-**Languages**
-- JavaScript / TypeScript
-- Rust
-- SQL
-
-**Backend**
-- Node.js / Express.js
-- Rust / Axum
-- REST APIs
-- JWT Authentication
-
-**Databases**
-- MongoDB
-- PostgreSQL
-- Elasticsearch
-
-**Cloud & Tools**
-- AWS
-- Docker
-- Git
-
-**Frontend**
-- React
-- Next.js
+Backend Developer focused on **Node.js, Rust, and MongoDB**.  
+I build production-ready backend systems and REST APIs.  
+Open to backend developer opportunities.
 
 ---
 
-## Projects
+## $\color{blue}{\textbf{Skills}}$
 
-**Bookmark Manager**
-- Full-stack bookmark management app
-- Backend: Rust, Axum, MongoDB
-- Frontend: Next.js, TypeScript
-- Features: Auth, collections, tags, search, browser import
-
-**Nexx Email Manager**
-- Email storage and search
-- JWT authentication
-- Pagination APIs
-
-**Restaurant Order System**
-- Real-world production project
-- Order management APIs
-- Used by a restaurant
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript, TypeScript, Rust, SQL |
+| **Backend** | Node.js, Express.js, Axum, REST APIs, JWT |
+| **Databases** | MongoDB, PostgreSQL, Elasticsearch |
+| **Cloud & Tools** | AWS, Docker, Git |
+| **Frontend** | React, Next.js, Tailwind CSS |
 
 ---
 
-## Currently Learning
+## $\color{blue}{\textbf{Experience}}$
 
-- Advanced Rust
-- AWS Services
-- Elasticsearch
-- System Design
+- Built production REST APIs used by real businesses
+- Developed full-stack applications with React and Next.js
+- Working with databases at scale (MongoDB, PostgreSQL)
+- Deployed and maintained applications on cloud infrastructure
 
 ---
 
-## Contact
+## $\color{blue}{\textbf{Contact}}$
 
-Email: samujalphukan@yahoo.com
+- 📧 **Email:** samujalphukan@yahoo.com
+- 🐙 **GitHub:** [Samujalphukan228](https://github.com/Samujalphukan228)
+- 💼 **Open to:** Backend Developer roles
+
+---
+
+> **"Writing clean code that solves real problems"**
