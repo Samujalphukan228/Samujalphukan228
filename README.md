@@ -1,38 +1,36 @@
-# $\color{blue}{\textbf{Samujal Phukan}}$
+# Samujal Phukan
 
-Backend Developer focused on **Node.js, Rust, and MongoDB**.  
-I build production-ready backend systems and REST APIs.  
-Open to backend developer opportunities.
+Backend Developer focused on **Rust, JavaScript, and Golang**.
 
----
+I build real-world backend systems and REST APIs.  
+I have developed production projects including a restaurant order system and an email management platform.
 
-## $\color{blue}{\textbf{Skills}}$
+## Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | JavaScript, TypeScript, Rust, SQL |
-| **Backend** | Node.js, Express.js, Axum, REST APIs, JWT |
-| **Databases** | MongoDB, PostgreSQL, Elasticsearch |
-| **Cloud & Tools** | AWS, Docker, Git |
-| **Frontend** | React, Next.js, Tailwind CSS |
+- Rust / Axum
+- Node.js / Express.js
+- TypeScript
+- MongoDB
+- REST APIs
+- JWT Authentication
+- React / Next.js
 
----
+## Projects
 
-## $\color{blue}{\textbf{Experience}}$
+**Nexx Email Manager**
+- Email storage and search
+- JWT authentication
+- Pagination APIs
 
-- Built production REST APIs used by real businesses
-- Developed full-stack applications with React and Next.js
-- Working with databases at scale (MongoDB, PostgreSQL)
-- Deployed and maintained applications on cloud infrastructure
+**Restaurant Order System**
+- Real-world production project
+- Order management APIs
+- Used by a restaurant
 
----
+## Currently Learning
 
-## $\color{blue}{\textbf{Contact}}$
+- Advanced Rust
+- Backend architecture
+- System design
 
-- 📧 **Email:** samujalphukan@yahoo.com
-- 🐙 **GitHub:** [Samujalphukan228](https://github.com/Samujalphukan228)
-- 💼 **Open to:** Backend Developer roles
-
----
-
-> **"Writing clean code that solves real problems"**
+Email: samujalphukan@yahoo.com
