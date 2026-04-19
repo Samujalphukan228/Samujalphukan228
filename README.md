@@ -1,36 +1,25 @@
 # Samujal Phukan
 
-Backend Developer focused on **Rust, JavaScript, and Golang**.
+Building backend systems and AI agents in Rust.
+Running **NexxUpp** — my own dev agency from Assam.
 
-I build real-world backend systems and REST APIs.  
-I have developed production projects including a restaurant order system and an email management platform.
+## What I Build
 
-## Skills
+- Production REST APIs — Rust + Axum
+- Service booking systems
+- AI agents and LLM integrations
+- Client web apps
 
-- Rust / Axum
-- Node.js / Express.js
-- TypeScript
-- MongoDB
-- REST APIs
-- JWT Authentication
-- React / Next.js
+## Current Stack
 
-## Projects
+Rust · Axum · MariaDB · MongoDB · Cloudinary · React · Arch Linux
 
-**Nexx Email Manager**
-- Email storage and search
-- JWT authentication
-- Pagination APIs
+## Active Projects
 
-**Restaurant Order System**
-- Real-world production project
-- Order management APIs
-- Used by a restaurant
+**Wash2Door** — production service booking API
+**Travel Booking MVP** — client project
+**PC Control Agent** — local Manus-like agent in Rust
 
-## Currently Learning
+## Links
 
-- Advanced Rust
-- Backend architecture
-- System design
-
-Email: samujalphukan@yahoo.com
+GitHub · Twitter
